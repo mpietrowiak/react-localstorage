@@ -1,0 +1,1 @@
+export const eventKey = 'mpietrowiak_localStorageChangedHook';
